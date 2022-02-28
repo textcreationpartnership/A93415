@@ -1,0 +1,401 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation and vindication of one William Smith, alias, Dowsing, a souldier in service of the state against Iohn Wilson and Captaine Edward Story, his adversaries. Who surreptiously, and maliciously, by false information, obtained a commission of bankrupt against him in his absence. And the wisedome, equitie, and impartiallity of the Right Honourable Henry, Earl of Kent, Oliver, Earle of Bullingbrooke; and the other commissioners for the custody of the great Seale of England, in calling his adversaries to accompt before them, and righting his wrong. Summum jus summa injuria.</title>
+            <author>Smith, William, soldier.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93415</idno>
+            <idno type="STC">Wing S4259</idno>
+            <idno type="STC">Thomason E35_7</idno>
+            <idno type="STC">ESTC R11897</idno>
+            <idno type="EEBO-CITATION">99859162</idno>
+            <idno type="PROQUEST">99859162</idno>
+            <idno type="VID">154620</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93415)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154620)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E35[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation and vindication of one William Smith, alias, Dowsing, a souldier in service of the state against Iohn Wilson and Captaine Edward Story, his adversaries. Who surreptiously, and maliciously, by false information, obtained a commission of bankrupt against him in his absence. And the wisedome, equitie, and impartiallity of the Right Honourable Henry, Earl of Kent, Oliver, Earle of Bullingbrooke; and the other commissioners for the custody of the great Seale of England, in calling his adversaries to accompt before them, and righting his wrong. Summum jus summa injuria.</title>
+                  <author>Smith, William, soldier.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Iohn Grove, and are to be sold at his shop in Chancery Lane neer the Rolls.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: the 4 in the imprint date is crossed out and altered to 1643; "March 1st 1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Smith, William, --  soldier.</term>
+               <term>Wilson, John, 17th cent.</term>
+               <term>Story, Edward.</term>
+               <term>Kent, Henry Grey, --  Earl of, 1594-1651.</term>
+               <term>Bolingbroke, Oliver St. John, --  Earl of, 1580?-1646.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-05</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154620:1" rendition="simple:additions"/>
+            <p>A
+RELATION
+AND
+VINDICATION
+Of one <hi>William Smith,</hi> alias, <hi>Dowſing,</hi>
+a Souldier in ſervice of the State, againſt <hi>Iohn Wilſon,</hi>
+and Captaine <hi>Edward Story,</hi> his Adverſaries.</p>
+            <p>Who ſurreptiouſly, and maliciouſly, by falſe Informa<g ref="char:EOLhyphen"/>tion,
+obtained a Commiſſion of Bankrupt againſt
+him in his abſence.</p>
+            <p>And the Wiſedome, Equitie, and Impartiallity of the
+Right Honourable HENRY, Earl of <hi>Kent;</hi> OLIVER,
+Earle of <hi>Bullingbrooke;</hi> and the other Commiſſioners
+for the Cuſtody of the great Seale of ENGLAND,
+in calling his Adverſaries to Accompt before them,
+and righting his wrong.</p>
+            <q xml:lang="lat">Summum jus ſumma injuria.</q>
+            <p>Printed at London for <hi>Iohn Grove,</hi> and are to be ſold at
+his Shop in Chancery Lane neer the Rolls. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:154620:2"/>
+            <pb n="1" facs="tcp:154620:2"/>
+            <head>To the Right Honourable the Lords,
+and other Commiſsioners for the great
+Seale of ENGLAND.</head>
+            <head type="sub">The humble PETITION of William Smith, alias, Dowſing, of
+Colcheſter in the Countie of Eſſex, Linnendraper.</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat your Petitioner about <hi>September</hi> laſt out of his
+affection to the publique good liſted himſelfe in the
+Parliament ſervice wherein he hath ever ſince conti<g ref="char:EOLhyphen"/>nued
+and performed his utmoſt endeavours: But ſo it is before
+and even at the time of ſuch his going in the State Service, he
+never abſented himſelfe from his houſe nor ſhut up ſhop, nor
+was in any wiſe to be ſuſpected a Banckrupt, but lived in good re<g ref="char:EOLhyphen"/>pute
+and hath ſufficient to pay all his debts with a good ſurplu<g ref="char:EOLhyphen"/>ſage,
+and hath lent and contributed upon the Propoſitions and
+Aſſeſſements to the Parliament, as by the Certificate hereunto
+annexed, under the hands of the Major, Aldermen and chiefe in<g ref="char:EOLhyphen"/>habitants
+of the ſaid Town of <hi>Colcheſter</hi> may appeare, of which
+Certificate your Petitioner craveth your honours audience.</p>
+            <p>Yet notwithſtanding one Captaine <hi>Edward Story</hi> with Ma<g ref="char:EOLhyphen"/>ſter
+<hi>Plum,</hi> partners with Maſter <hi>Turner</hi> have proſecuted the Sta<g ref="char:EOLhyphen"/>tute
+of Banckrupt againſt your Petitioner, pretending he became
+Banckrupt in <hi>Decemb<g ref="char:punc">▪</g>
+               </hi> laſt, and the Commiſſioners in the Com<g ref="char:EOLhyphen"/>miſſion,
+have proclaimed your Petitioner Banckrupt, and taken
+all his wares out of his ſhop, and threatned to take all his houſ<g ref="char:EOLhyphen"/>holdſtuffe
+<pb n="2" facs="tcp:154620:3"/>
+and to ſell his Lands at ſuch a rate as can now be gotten
+for them, your Petitioners Lands and Timbers being ſold to the
+value as formerly would have been given for them, being worth
+one thouſand pound, far exceeding his creditors demands.</p>
+            <p>And foraſmuch as your Petitioner deſires to pay every man,
+and ſo will do as ſoon as he can ſell his Lands for their true value,
+and the times ſetling, intends to proceed in his trade.</p>
+            <p>Your Petitioners humble ſute is that you would be pleaſed to
+take into conſideration the whole premiſes, and Superſeding the
+ſaid Commiſſion to take ſuch further order for your Petitioner
+and his families preſervation and a timely vindication, as to your
+honours ſhall ſtand with equity and good conſcience.</p>
+            <closer>And your Petitioner will daily pray, &amp;c.
+</closer>
+            <postscript>
+               <opener>
+                  <dateline>
+                     <date>February 9. 1643.</date>
+                  </dateline>
+               </opener>
+               <p>Upon the Certificate annexed, let the Commiſſion and all
+proceedings thereupon be Superſeded.</p>
+               <closer>
+                  <signed>Per Hen. Scobell, Deput. Regiſt.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="testimony">
+            <pb n="362" facs="tcp:154620:3"/>
+            <p>WHereas Captaine <hi>Story</hi> and ſome others of the
+Creditors of <hi>William Dowſing,</hi> alias, <hi>Smith,</hi> of
+the Pariſh of <hi>Runwalls</hi> within the Towne of
+<hi>Colcheſter,</hi> in the County of <hi>Eſſex</hi> Linnendraper, have lately
+taken out, and have proſecuted the Statute of Bankrupts againſt
+him, pretending the ſaid <hi>Willliam Dowſing,</hi> alias, <hi>Smith,</hi> became
+a Bankrupt in <hi>December</hi> laſt; and they with <hi>Robert Sparrow</hi> of
+the ſame Tow<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Linnendraper, and ſome others named Com<g ref="char:EOLhyphen"/>miſſioners
+in the ſaid Commiſſion, did upon the xxvi. of <hi>Janu<g ref="char:EOLhyphen"/>ary</hi>
+inſtant, proclaime him Bankrupt for his non-appearance be<g ref="char:EOLhyphen"/>fore
+them. Whereas the ſaid <hi>William Dowſing,</hi> alias, <hi>Smith,</hi> be<g ref="char:EOLhyphen"/>ing
+a young man, and having kept ſhop about two yeares now
+paſt, and having been very forward for the publique good and
+ſervice of the King and Parliament, both in purſe and perſon,
+as may appeare by his lending upon the Propoſitions of Parlia<g ref="char:EOLhyphen"/>ment.
+And further, to manifeſt himſelfe for the publique, he
+(being a man expert, and of ſtrength and courage, did before the
+Feaſt of Saint <hi>Michael</hi> the Archangel, laſt paſt, go into the
+actuall ſervice of the King and Parliament, and ſo have conti<g ref="char:EOLhyphen"/>nued
+ever ſince, as he hath made appeare to the Major of this
+Towne, by Certificate from his Captaine, and as we know and
+beleeve. Before which his going into the Parliaments ſervice,
+he never abſented himſelfe from his houſe, nor ſhut up ſhop, nor
+offered to compound with his Creditours, nor lay in priſon, nor
+was arreſted, or troubled: But lived amongſt us in good repute,
+and as a man of a competent eſtate, and without any ſuſpition
+of his being a Bankrupt; nor hath any Action, or Actions, been
+entered againſt him in all this Majors Majoralty of this Towne:
+And he being gone into the ſervice as aforeſaid, his wife being
+all alone, ſhut up the ſhop; And fearing her husbands long
+ſtay in the Army, and that times for that Trade were not likely
+to mend, did in his abſence, and without her husbands know<g ref="char:EOLhyphen"/>ledge,
+or conſent, as we beleeve, deſire the ſaid Captaine <hi>Story,</hi>
+and the other Chapmen he traded with in <hi>London,</hi> to take their
+<pb n="4" facs="tcp:154620:4"/>
+wares againe, and if any thing wanted of their Debts, her huſ<g ref="char:EOLhyphen"/>band
+ſhould, and would pay them; and we beleeve, that in land,
+and perſonall eſtate, the ſaid <hi>William Dowſing,</hi> alias, <hi>Smith,</hi> hath
+ſufficient to pay all his Debts, with a good ſurpluſage. And for<g ref="char:EOLhyphen"/>aſmuch
+as the Commiſſioners proceedings againſt him in this
+manner, may be of ill conſequence amongſt us, and deterre men
+of quality and ability to go into the ſervice, if not cauſe ſome to
+returne that are already gone.</p>
+            <p>We have thought it fitting for his preſervation, and a timely
+prevention of a further ill, to certifie thus much; we believing
+this to be the whole truth, we being of the ſame Pariſh, and the
+Pariſhes neere adjoyning. And are confident that ſome ill-af<g ref="char:EOLhyphen"/>fected
+to him have inſtigated his Creditours, to do this rather
+out of ſome private ends, or revenge, then for any juſt cauſe.
+All which we have thought ſit to certifie, as well wiſhers to the
+St<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te, and publique good, and as a neighbourly reſpect to him
+who is ready to ſacrifice his life for the publique) bindes us.</p>
+            <closer>
+               <dateline>Colcheſter <date>27. Sept. 1643.</date> Ex.</dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Thomas Lawrence,</hi> Major.</item>
+                     <item>
+                        <list>
+                           <head>Aldermen,</head>
+                           <item>
+                              <hi>Henry Barrington,</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Wade,</hi>
+                           </item>
+                           <item>
+                              <hi>Iohn Langley</hi> Captain<g ref="char:punc">▪</g>
+                           </item>
+                           <item>
+                              <hi>Robert Buxton,</hi>
+                           </item>
+                           <item>
+                              <hi>Ralph Harriſon,</hi>
+                           </item>
+                           <item>
+                              <hi>Iohn Fruly,</hi>
+                           </item>
+                           <item>
+                              <hi>Willi<g ref="char:EOLhyphen"/>am Cooke,</hi>
+                           </item>
+                           <item>
+                              <hi>Iohn Ioſceline</hi> Deputy Recorder, and
+many others.</item>
+                        </list>
+                     </item>
+                  </list>
+               </signed>
+               <signed>Per Hen. Scobell Deput. Regiſt.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="5" facs="tcp:154620:4"/>
+            <opener>
+               <signed>
+                  <hi>CHARLES</hi> by the grace of God, King of England,
+Scotland, France and Ireland, Defender of the Faith,
+&amp;c.</signed> 
+               <salute>To Our Truſty and wel beloved <hi>John Marſh, JohnNorburg</hi> Eſquires, <hi>Richard Hawkins; Henry Parker, Robert
+Sparrow</hi> Gentlemen, greeting;</salute>
+            </opener>
+            <p>Whereas we being heretofore in<g ref="char:EOLhyphen"/>formed
+that <hi>William Smith, alias, Dowſing</hi> late of <hi>Colcheſter</hi> in the
+County of <hi>Eſſex,</hi> Mercer, uſing and exerciſing the trade of Mer<g ref="char:EOLhyphen"/>chandize
+by way of bargaining, exchange, bartering, cheviſance,
+ſeeking his Trade of living by buying and ſelling, about the mo<g ref="char:EOLhyphen"/>neth
+of <hi>December</hi> now laſt paſt, did become Banckrupt within
+the ſeverall Statutes lately made againſt Banckrupts, to the in<g ref="char:EOLhyphen"/>tent
+to defraud and hinder <hi>John Wilſon</hi> of <hi>London,</hi> Ironmonger,
+and other his Creditors of their juſt debts and detyes due to them
+due and owing; We thereupon minding the due execution of the
+ſeverall Statutes lately made againſt Banckrupts did by our
+Commiſſion under our great Seal of England dated on or about
+the ſeventeenth day of <hi>Ianuary</hi> now laſt paſt, name, aſſigne, ap<g ref="char:EOLhyphen"/>point,
+conſtitute and ordaine you our ſpeciall Commiſſioners;
+and did thereby give full power and authority unto you four or
+three of you, whereof you the ſaid <hi>John Marſh</hi> or <hi>Iohn Norburg</hi>
+ſhould be one according to the ſame Statutes and every of them
+not onely concerning the ſaid Banckrupt his body lands, tene<g ref="char:EOLhyphen"/>ments,
+freeholds, and Cuſtomary goods, debts, and other things
+whatſoever, but alſo concerning all other perſons, which by con<g ref="char:EOLhyphen"/>cealement,
+claime, or otherwiſe did or ſhould offend touching
+the premiſes or any part thereof, contrary to the intent and mean<g ref="char:EOLhyphen"/>ing
+of the ſame Statutes or any or either of them, willing there<g ref="char:EOLhyphen"/>by
+and commanding you four or three of you, whereof you the
+ſaid <hi>Iohn Marſh</hi> or <hi>John Norburg</hi> ſhould be one to proceed to the
+execution and accompliſhment of the ſame Commiſſion with<g ref="char:EOLhyphen"/>all
+diligence and effect, as our ſpeciall truſt was in you repoſed,
+as by the ſaid Commiſſion, remaining in the hands of you or
+ſome of you may appeare: Now for divers reaſons expreſſed in
+a Petition exhibited by the ſaid <hi>William Dowſing, alias, Smith,</hi> and
+a Certificate thereunto annexed unto the right honourable the
+Lords and other Commiſſioners for the great Seale of England,
+<pb n="6" facs="tcp:154620:5"/>
+which Certificate was made by the Maior, Aldermen<g ref="char:punc">▪</g> and oth<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>2
+of the Town of <hi>Colcheſter</hi> and according to an Order of the nin<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+of this inſtant <hi>February</hi> made between <hi>Edward Story</hi> and oth<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+Plantiffs, and the ſaid <hi>William Smith</hi> Defendant: We will and
+require you, and every of you by theſe preſents, utterly to deſiſt
+and ſurceaſe from allor any your further proceedings in or about
+the execution of the ſame Commiſſion, but that you ſuperſede
+the ſame, and that if you have attached the body of the ſaid <hi>Wil<g ref="char:EOLhyphen"/>liam
+Smith, alias, Dowſing</hi> and committed him to cuſtody, that
+you preſently cauſe him to be releaſed and ſet at liberty; and al<g ref="char:EOLhyphen"/>ſo
+if you have by vertue of the ſaid Commiſſion taken or ſeized
+any of the goods or eſtate of him, the ſaid <hi>William Smith, alias,
+Dowſing,</hi> you do forthwith cauſe the ſame to be reſtored unto
+him, the ſaid <hi>William Smith, alias, Dowſing,</hi> our ſaid Commiſſion<g ref="char:punc">▪</g>
+or any thing therin conteined to the contrary hereof in any wiſe
+notwithſtanding:</p>
+            <closer>
+               <dateline>Witneſſe Our Self at Weſtminſter <date>the tenth
+day of February in the nineteenth yeare of our Raigne.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Latch and</item>
+                     <item>Ienyns.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="account">
+            <p>Whereupon by the Councell of friends the Defendants wife repaired to Mr.
+<hi>William Arwaker</hi> of the ſociety of Lincolnes Inne, and now an inhabitant of
+Colcheſter, whoſe skill and conſtancy to do right (maugre the devill and all
+beasts and birds) hath made him famous, who delights more in truth then i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+praiſe; And he adviſed the courſe and drew the Certificate, did proſecute
+and manage the whole buſineſſe for which all good men and Souldiers ow<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+him thanks, for the having been a Souldier and approving himſelf every way
+for the publique.</p>
+            <p>By all which it appeares that no man ſhall be made a ſufferer who labours
+or ventures his life for the publique good, and that neither any ſhall need to be
+afraid to go into the publique ſervice, or enforced to returne for any <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> cauſe
+before ſpoken of, but may undoubtedly be encouraged to proceed in a worke ſo
+good and juſt, and to receive ſuch recompence and proviſions made for them<g ref="char:EOLhyphen"/>ſelves,
+wives and families, as by Ordnance of Parliament is provided; And
+it were to be wiſhed that before any ſuch Commiſſions in theſe times he gran<g ref="char:EOLhyphen"/>ted,
+it might be examined whether the party againſt whom it ſhall be prayed
+hath been or is in the actuall ſervice of the King and Parliament.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
